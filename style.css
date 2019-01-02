@@ -5,6 +5,11 @@ body	{
 #logo	{
 	height: 80px;
 }
+h1	{
+	font-weight: lighter;
+}
+
+}
 #container {
 	display: flex;
 	align-items: center;
@@ -12,3 +17,4 @@ body	{
 	height : 80vh;
 	flex-direction: column;
 }
+
